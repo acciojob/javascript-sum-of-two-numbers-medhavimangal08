@@ -5,5 +5,5 @@ if(typeof input1!=“number” || typeof input3!=“number” ||input1==“”||
 alert(“Invalid input. Please enter a valid number”)
 }
 else{
-alert("The sum of “+input1+” "+"and “+input2+” is "+input3)
+alert("The sum of "+input1+" and "+input2+" is "+input3)
 }
